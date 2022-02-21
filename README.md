@@ -8,8 +8,10 @@
 
 ##### 4- cd "your project or app name"
 
+If we want to run our app then we need to call one of below command.
+
 ##### 5- yarn start or npm start
 
-If we want to run our app then we need to call one of above command.
+##### remove bioler plate code like - App.test.js and index.css
 
-## ****\***** Enjoy React codding ****\*****
+#### \***\*\*\*\*** Enjoy React codding \***\*\*\*\***
