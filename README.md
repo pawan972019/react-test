@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-### Install node in system
+##### 1 Install node in system
 
-#### Check node ver -> node -v
+##### 2 Check node ver -> node -v
 
-##### Install React JS in our system using “npx create-react-app app-name”
+##### 3 Install React JS in our system using “npx create-react-app app-name”
