@@ -6,9 +6,10 @@
 
 ##### 3- Install React JS in our system using “npx create-react-app app-name”
 
-###### 4- cd "your project or app name"
+##### 4- cd "your project or app name"
 
-###### 5- yarn start
+##### 5- yarn start or npm start
 
-once you hit this command your local server will launch with installing few
-dependencies.
+If we want to run our app then we need to call one of above command.
+
+## ****\***** Enjoy React codding ****\*****
